@@ -3,10 +3,11 @@ Add your code below following the instructions given in the course
 Data Science Tools and Ecosystem
 In this notebook, Data Science Tools and Ecosystem are summarized.
 Objectives:
-List popular languages for Data Science
-List popular libraries for Data Science
-Work with Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio.
-Test data tools to run simple code in Python, R, or Scala.
+Create markdown cells
+Format content of markdown cells with heading styles
+Add comments to code cells
+Add ordered and unordered lists to markdown cells
+
 Some of the popular languages that Data Scientists use are:
 Python
 R
@@ -43,13 +44,6 @@ Below are a few examples of evaluating arithmetic expressions in Python
 # This will convert 200 minutes to hours by diving by 60
 200//60
 3
-Objectives:
-Create markdown cells
-Format content of markdown cells with heading styles
-Add comments to code cells
-Add ordered and unordered lists to markdown cells
-
-
 
 
 
